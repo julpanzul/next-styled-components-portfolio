@@ -9,7 +9,7 @@ import { Section } from "../styles/GlobalComponents";
 
 const Home = () => {
   return (
-    <Layout>
+    <Layout title={"Portfolio - Zulfan"}>
       <Section grid>
         <Hero />
         <BgAnimation />
